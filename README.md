@@ -8,14 +8,14 @@ Login with ideabyte@gmail.com account.
 
 Figma: https://www.figma.com/file/Ulv3rNFBEvLpAYVQKyrQUf7R/Logo
 
-![Idea Byte Logo](assets/images/ideabyte-logo.png)
+![Idea Byte Logo](assets/exports/ideabyte-logo.png)
 
 ### UI Design
 
-Figma: https://www.figma.com/file/fnUhskd1moNIQIefbwC0eknE/Web-App?node-id=0%3A1
+Figma: https://www.figma.com/file/fnUhskd1moNIQIefbwC0eknE/Web-App–
 
-![Idea Byte Desktop](assets/images/ideabyte-desktop.png)
+![Idea Byte Desktop](assets/exports/ideabyte-desktop.png)
 
-![Idea Byte Tablet](assets/images/ideabyte-tablet.png)
+## Credits
 
-![Idea Byte Mobile](assets/images/ideabyte-mobile.png)
+Thanks to [Unsplash](https://unsplash.com) and [The Noun Project](https://thenounproject.com).
