@@ -1,20 +1,24 @@
 # Idea Byte Design
 
-## Figma
+This repo is to manage all design assets of Idea Byte.
 
-Login with ideabyte@gmail.com account.
+## Figma
 
 ### Logo Design
 
 Figma: https://www.figma.com/file/Ulv3rNFBEvLpAYVQKyrQUf7R/Logo
 
-![Idea Byte Logo](assets/exports/ideabyte-logo.png)
+![Logo](assets/logo/ideabyte-logo.png)
 
 ### UI Design
 
 Figma: https://www.figma.com/file/fnUhskd1moNIQIefbwC0eknE/Web-App–
 
-![Idea Byte Desktop](assets/exports/ideabyte-desktop.png)
+![Desktop](assets/desktop/desktop.png)
+
+![Idea](assets/desktop/desktop-idea.png)
+
+![Register](assets/desktop/desktop-register.png)
 
 ## Credits
 
