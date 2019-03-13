@@ -154,16 +154,18 @@ Let's build a full stack project in just 5 days.
   - CSS: styling the page
   - JavaScript (ESNext): making the website interactive
   - [React](https://reactjs.org): component-based design
-  - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi): debugging React development
-  - [React Router DOM](https://reacttraining.com/react-router/web): routing the React app pages
-  - [React Formik](https://jaredpalmer.com/formik): building the form in React
-  - [React Helmet](https://npmjs.com/package/react-helmet): managing metadata in React
-  - [React Spinners](https://react-spinners.com): showing loading spinner when loading content
-  - [React Toastify](https://fkhadra.github.io/react-toastify): notifying information (success/error)
-  - [React Content Loader](http://danilowoz.com/create-content-loader): showing skeleton of loading content
-  - [Styled Components](https://styled-components.com): CSS in JS with `styled`
-  - [Emotion](https://emotion.sh): CSS in JS
-    - [`@emotion/styled`](https://emotion.sh/docs/@emotion/styled): CSS in JS with `styled`
+    - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi): debugging React development
+    - [React Hot Loader](http://gaearon.github.io/react-hot-loader): tweaking React components in real time
+      - [Hot Reloading in Create React App Without Ejecting](https://daveceddia.com/hot-reloading-create-react-app)
+    - [React Router DOM](https://reacttraining.com/react-router/web): routing the React app pages
+    - [React Formik](https://jaredpalmer.com/formik): building the form in React
+    - [React Helmet](https://npmjs.com/package/react-helmet): managing metadata in React
+    - [React Spinners](https://react-spinners.com): showing loading spinner when loading content
+    - [React Toastify](https://fkhadra.github.io/react-toastify): notifying information (success/error)
+    - [React Content Loader](http://danilowoz.com/create-content-loader): showing skeleton of loading content
+    - [Styled Components](https://styled-components.com): CSS in JS with `styled`
+    - [Emotion](https://emotion.sh): CSS in JS
+      - [`@emotion/styled`](https://emotion.sh/docs/@emotion/styled): CSS in JS with `styled`
   - [Draft.js](https://draftjs.org): rich editing HTML text format in form field
   - [Redux](https://redux.js.org): managing the state across the React app
   - [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd): debugging Redux development
