@@ -213,9 +213,9 @@ Figma: https://www.figma.com/file/Ulv3rNFBEvLpAYVQKyrQUf7R/Logo
 
 ![Logo](assets/logo/ideabyte-logo.png)
 
-### 7.2. <a name='UIUXDesign'></a>UI & UX Design
+### 7.2. <a name='UIUXDesign'></a>Desktop Design
 
-Figma: https://www.figma.com/file/fnUhskd1moNIQIefbwC0eknE/Web-App–
+Figma: https://www.figma.com/file/fnUhskd1moNIQIefbwC0eknE/Desktop
 
 ![Desktop](assets/desktop/desktop.png)
 
