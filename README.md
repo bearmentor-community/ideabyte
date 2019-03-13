@@ -2,27 +2,32 @@
 
 This repo is to manage all discussion and design assets of Idea Byte.
 
+- [Frontend Data Documentation](README_FRONTEND_DATA.md)
+- [Backend API Documentation](README_BACKEND_API.md))
+
+## 1. <a name='TableofContents'></a>Table of Contents
+
 <!-- vscode-markdown-toc -->
 
-- 1. [Introduction](#Introduction)
-- 2. [Links](#Links)
-- 3. [Development Setup](#DevelopmentSetup)
-- 4. [Features](#Features)
-- 5. [Management Accounts](#ManagementAccounts)
-- 6. [Technology & Design Stack](#TechnologyDesignStack)
-- 7. [Design](#Design)
-     _ 7.1. [Logo Design](#LogoDesign)
-     _ 7.2. [UI & UX Design](#UIUXDesign)
-- 8. [License](#License)
+- 1. [Table of Contents](#TableofContents)
+- 2. [Introduction](#Introduction)
+- 3. [Links](#Links)
+- 4. [Development Setup](#DevelopmentSetup)
+- 5. [Features](#Features)
+- 6. [Management Accounts](#ManagementAccounts)
+- 7. [Technology & Design Stack](#TechnologyDesignStack)
+- 8. [Design](#Design)
+     _ 8.1. [Logo Design](#LogoDesign)
+     _ 8.2. [Desktop Design](#DesktopDesign)
+- 9. [License](#License)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-
 <!-- /vscode-markdown-toc -->
 
-## 1. <a name='Introduction'></a>Introduction
+## 2. <a name='Introduction'></a>Introduction
 
 Let's build a full stack project in just 5 days.
 
@@ -32,7 +37,7 @@ Let's build a full stack project in just 5 days.
 - Thursday: Integrate frontend and backend
 - Friday: Present full stack project with slide
 
-## 2. <a name='Links'></a>Links
+## 3. <a name='Links'></a>Links
 
 - Organization:
   - https://github.com/ideabyte
@@ -41,7 +46,7 @@ Let's build a full stack project in just 5 days.
   - https://github.com/ideabyte/ideabyte-frontend
   - https://github.com/ideabyte/ideabyte-backend
 
-## 3. <a name='DevelopmentSetup'></a>Development Setup
+## 4. <a name='DevelopmentSetup'></a>Development Setup
 
 - Determine a team/app name
   - Example: Idea Byte
@@ -68,7 +73,7 @@ Let's build a full stack project in just 5 days.
 - Setup project with linked repositories
   - Example: https://github.com/orgs/ideabyte/projects/1
 
-## 4. <a name='Features'></a>Features
+## 5. <a name='Features'></a>Features
 
 - List the features we NEED, not what we WANT
 - List the issues on how to implement it
@@ -114,7 +119,7 @@ Let's build a full stack project in just 5 days.
   - Remove our own idea
   - Resubmit the idea
 
-## 5. <a name='ManagementAccounts'></a>Management Accounts
+## 6. <a name='ManagementAccounts'></a>Management Accounts
 
 `yourteamname@gmail.com`
 
@@ -131,7 +136,7 @@ Let's build a full stack project in just 5 days.
 - Unsplash
 - Grammarly
 
-## 6. <a name='TechnologyDesignStack'></a>Technology & Design Stack
+## 7. <a name='TechnologyDesignStack'></a>Technology & Design Stack
 
 - Management
   - [Gmail](https://mail.google.com): managing all emails
@@ -208,15 +213,15 @@ Let's build a full stack project in just 5 days.
   - [Facebook](https://facebook.com)
   - [Instagram](https://instagram.com)
 
-## 7. <a name='Design'></a>Design
+## 8. <a name='Design'></a>Design
 
-### 7.1. <a name='LogoDesign'></a>Logo Design
+### 8.1. <a name='LogoDesign'></a>Logo Design
 
 Figma: https://figma.com/file/Ulv3rNFBEvLpAYVQKyrQUf7R/Logo
 
 ![Logo](assets/logo/ideabyte-logo.png)
 
-### 7.2. <a name='UIUXDesign'></a>Desktop Design
+### 8.2. <a name='DesktopDesign'></a>Desktop Design
 
 Figma: https://figma.com/file/fnUhskd1moNIQIefbwC0eknE/Desktop
 
@@ -226,7 +231,7 @@ Figma: https://figma.com/file/fnUhskd1moNIQIefbwC0eknE/Desktop
 
 ![Register](assets/desktop/desktop-register.png)
 
-## 8. <a name='License'></a>License
+## 9. <a name='License'></a>License
 
 - MIT License
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
