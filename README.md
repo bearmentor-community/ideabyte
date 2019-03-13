@@ -156,66 +156,67 @@ Let's build a full stack project in just 5 days.
   - [React](https://reactjs.org): component-based design
   - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi): debugging React development
   - [React Router DOM](https://reacttraining.com/react-router/web): routing the React app pages
-  - [React Helmet](https://www.npmjs.com/package/react-helmet): managing metadata in React
-  - [React Spinners](https://www.react-spinners.com): showing loading spinner when loading content
+  - [React Formik](https://jaredpalmer.com/formik): building the form in React
+  - [React Helmet](https://npmjs.com/package/react-helmet): managing metadata in React
+  - [React Spinners](https://react-spinners.com): showing loading spinner when loading content
   - [React Toastify](https://fkhadra.github.io/react-toastify): notifying information (success/error)
   - [React Content Loader](http://danilowoz.com/create-content-loader): showing skeleton of loading content
-  - [Styled Components](https://www.styled-components.com): CSS in JS with `styled`
+  - [Styled Components](https://styled-components.com): CSS in JS with `styled`
   - [Emotion](https://emotion.sh): CSS in JS
     - [`@emotion/styled`](https://emotion.sh/docs/@emotion/styled): CSS in JS with `styled`
   - [Draft.js](https://draftjs.org): rich editing HTML text format in form field
   - [Redux](https://redux.js.org): managing the state across the React app
   - [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd): debugging Redux development
     - [Using Redux Dev Tools Extension as Middleware](https://github.com/zalmoxisus/redux-devtools-extension#13-use-redux-devtools-extension-package-from-npm)
-  - [Redux Persist](https://www.npmjs.com/package/redux-persist): Persist and rehydrate a redux store
+  - [Redux Persist](https://npmjs.com/package/redux-persist): Persist and rehydrate a redux store
   - [Redux Middleware](https://redux.js.org/advanced/middleware): managing plugins in Redux
-    - [Redux Thunk](https://www.npmjs.com/package/redux-thunk): managing asynchronous process in Redux
-    - [Connected React Router](https://www.npmjs.com/package/connected-react-router): managing history in React Router & Redux
+    - [Redux Thunk](https://npmjs.com/package/redux-thunk): managing asynchronous process in Redux
+    - [Connected React Router](https://npmjs.com/package/connected-react-router): managing history in React Router & Redux
 - Backend
   - [Node.js](https://nodejs.org): JavaScript in the backend
   - [Express](https://expressjs.com): making the REST API
-  - [`bcrypt`](https://www.npmjs.com/package/bcrypt): securing the password, also with salt
+  - [`bcrypt`](https://npmjs.com/package/bcrypt): securing the password, also with salt
   - [JWT (JSON Web Tokens)](https://jwt.io): managing authorization with token after login
-    - [`jsonwebtoken`](https://www.npmjs.com/package/jsonwebtoken)
+    - [`jsonwebtoken`](https://npmjs.com/package/jsonwebtoken)
   - [NoSQL](http://nosql-database.org): non-relational database
-    - [MongoDB](https://www.mongodb.com): document-based database
+    - [MongoDB](https://mongodb.com): document-based database
     - [Robo 3T (formerly Robomongo)](https://robomongo.org/download): managing MongoDB data
     - [Mongoose](https://mongoosejs.com): ODM (Object Data Modeling) for MongoDB
   - SQL: relational database
-    - [MySQL](https://www.mysql.com/products/community): table-based database
+    - [MySQL](https://mysql.com/products/community): table-based database
     - [MariaDB](https://mariadb.org): table-based database
-    - [MySQL Workbench](https://www.mysql.com/products/workbench): designing and managing MySQL data
+    - [MySQL Workbench](https://mysql.com/products/workbench): designing and managing MySQL data
     - [Knex.js](https://knexjs.org): SQL query builder
     - [Objection.js](https://vincit.github.io/objection.js): ORM (Object Relational Mapping) for MongoDB
 - Server
-  - [Netlify](https://www.netlify.com): hosting the frontend web application
+  - [Netlify](https://netlify.com): hosting the frontend web application
   - [Heroku](https://heroku.com): hosting the backend REST API in PaaS
     - [Heroku mLab](https://elements.heroku.com/addons/mongolab): hosting MongoDB in Heroku
-    - [Heroku Postgres](https://www.heroku.com/postgres): hosting PostgreSQL in Heroku
+    - [Heroku Postgres](https://heroku.com/postgres): hosting PostgreSQL in Heroku
     - [Heroku ClearDB MySQL](https://elements.heroku.com/addons/cleardb): hosting MySQL in Heroku
     - [https://elements.heroku.com/addons/jawsdb-maria](https://elements.heroku.com/addons/jawsdb-maria): hosting MariaDB in Heroku
-  - [Digital Ocean](https://www.digitalocean.com): hosting any application in VPS
+  - [Digital Ocean](https://digitalocean.com): hosting any application in VPS
   - [Google Cloud Platform](https://cloud.google.com/gcp)
     - [Google Compute Engine](https://cloud.google.com/compute): hosting all applications
 - Domain
   - [Uniregistry](https://uniregistry.com): registering the domain
-  - [Cloudflare](https://www.cloudflare.com): managing the DNS (Domain Name Server) between domain and server
+  - [Cloudflare](https://cloudflare.com): managing the DNS (Domain Name Server) between domain and server
 - Social Media
   - [Twitter](https://twitter.com)
-  - [Facebook](https://www.facebook.com)
+  - [Facebook](https://facebook.com)
   - [Instagram](https://instagram.com)
 
 ## 7. <a name='Design'></a>Design
 
 ### 7.1. <a name='LogoDesign'></a>Logo Design
 
-Figma: https://www.figma.com/file/Ulv3rNFBEvLpAYVQKyrQUf7R/Logo
+Figma: https://figma.com/file/Ulv3rNFBEvLpAYVQKyrQUf7R/Logo
 
 ![Logo](assets/logo/ideabyte-logo.png)
 
 ### 7.2. <a name='UIUXDesign'></a>Desktop Design
 
-Figma: https://www.figma.com/file/fnUhskd1moNIQIefbwC0eknE/Desktop
+Figma: https://figma.com/file/fnUhskd1moNIQIefbwC0eknE/Desktop
 
 ![Desktop](assets/desktop/desktop.png)
 
